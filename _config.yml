@@ -22,7 +22,7 @@ repository               : "radiance-nt/radiance-nt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://i.imgur.com/WcNrL0s.png"
   name             : "Zhanhui Lin"
   pronouns         : # example: "she/her"  
   bio              : "Hello, welcome to my page 😎"
