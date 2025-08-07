@@ -10,6 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Interests"
+    url: /interest/
+  - title: "Miscellaneous"
+    url: /misc/
 
 #  - title: "Talks"
 #    url: /talks/
