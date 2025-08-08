@@ -88,4 +88,4 @@ My primary research interest is in developing intelligent agents capable of robu
 - **Domains**:
   - Reinforcement Learning, Imitation Learning, SLAM, Control Theory, Machine Learning (Semi-supervised, Meta, ...)
 - **Languages & Tools**:
-  - **C++** (STL, Eigen), **Python** (Jax, PyTorch), **Go**, ROS, Linux, Git, Docker, MuJoCo, AirSim
+  - **C++** (STL, Eigen), **Python** (Jax, PyTorch), **Go**, ROS, Linux, Git, Docker
