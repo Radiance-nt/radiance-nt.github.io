@@ -37,7 +37,7 @@ social games.
       tanks like Winston, D.Va, Wrecking Ball, and Reinhardt; damage heroes like Torbjörn and Symmetra; and supports
       like Ana and Brigitte.
     - **Valorant:** I'm currently approaching the **Ascendant** tier. My strengths lie in
-      playing controller agents (smokes), initiators (information), and sentinels. I focus on map control, understanding
+      playing controller agents (smokes), initiators (recon), and sentinels. I focus on map control, understanding
       default setups, and strategic decision-making.
 
 - **Board Games:** When I'm not gaming on a screen, I enjoy the strategic and social dynamics of board games. I'm
